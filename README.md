@@ -1,5 +1,10 @@
 # plugma-tsserver
 
+Screenshot of error when using autocomplete for CodeMirror. I think it comes from line 11 of `tsserver.js`.
+
+
+<img width="810" alt="Screenshot 2024-07-16 at 22 14 44" src="https://github.com/user-attachments/assets/aa783944-d004-44e0-a94c-ac2a5db7a514">
+
 ## Quickstart
 
 This plugin was created with [Plugma](https://github.com/gavinmcfarland/plugma) using the [Svelte](https://svelte.dev/) framework.
