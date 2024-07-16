@@ -1,0 +1,13 @@
+{
+  "id": "plugma-tsserver",
+  "main": "main.js",
+  "api": "1.0.0",
+  "ui": "ui.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "name": "plugma-tsserver"
+}
